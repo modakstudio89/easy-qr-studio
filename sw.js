@@ -1,4 +1,4 @@
-const CACHE_NAME = "easy-qr-studio-v1";
+const CACHE_NAME = "easy-qr-studio-v2";
 
 const CORE_ASSETS = [
   "./",
